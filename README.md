@@ -1,4 +1,4 @@
-![](https://github.com/melissa9608/banner/blob/main/linkedin%20banner.png)
+![](https://media.licdn.com/dms/image/v2/D4E16AQGIcj8lNn6DJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686761519456?e=1730332800&v=beta&t=iIBrnk31dAViu8v7bs5RClJvk_xz-bkF3DzvuaSCEQ8)
 
 ## Hi there! 👋 I’m Christian, a passionate Data Analyst and Mechanical Engineer with expertise in data analysis & data storytelling
 
@@ -8,28 +8,27 @@ I am skilled in the use of tools such as Python, SQL and Power Bi to transform d
 - **Programming Languages:** Python, SQL
 - **Data Analysis & Data Storytelling:**
 - **Visualization Tools:** Matplotlib, Seaborn, Power BI, Tableau
-- **Python Libraries:**
-  - pandas, numpy, matplotlib, seaborn, scipy
+- **Python Libraries:** pandas, numpy, matplotlib, seaborn, scipy
 
 ## 🌟 Key Projects:
 - **[Inefficient operators - Telecom Project](https://github.com/christiandavidortegaochoa1990/proyecto_4_sp14_tripleten)**
-- **[Customer Churn Prediction](https://github.com/melissa9608/Aprendizaje_supervisado)**
-- **[Oil Well Location Optimization](https://github.com/melissa9608/Aprendizaje_automatico_en_negocios)**
-- **[Insurance Customer Segmentation](https://github.com/melissa9608/algebra_lineal)**
+- **[Processing and analysis of user and expert reviews, genres, platforms and historical sales data](https://github.com/christiandavidortegaochoa1990/proyecto_sprint6)**
+- **[Zuber_python_data_analysis](https://github.com/christiandavidortegaochoa1990/Tripleten-Data-Analyst-Projects/tree/main/10_zuber_SQL_python_sp7)**
+- **[Investor_opportunity_cafe_robot](https://github.com/christiandavidortegaochoa1990/Tripleten-Data-Analyst-Projects/tree/main/7_Investor_opportunity_cafe_robot_sp10)**
 - **[Feasibility of investing in Airbnb-type accommodations in the city of Barcelona, Spain](https://github.com/christiandavidortegaochoa1990/projects_portfolio/tree/Datapath)**
 
 ## 🚀 Current Focus:
 
-I’m currently diving deeper into advanced machine learning techniques and exploring new data science methodologies. I'm also working on improving data-driven decision-making processes for various projects.
+I'm currently diving deeper into advanced statistical data analytics techniques, focused on improving data-driven decision-making processes.
 
 ## 📬 Contact Me:
 
-**Email:** melissa9608@gmail.com  
+**Email:** c_ortega8a@hotmail.com  
 
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/melissa-londono/)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/christiandavidortegaochoa1990/)
 
-**GitHub:** [GitHub Profile](https://github.com/melissa9608)
+**GitHub:** [GitHub Profile](https://github.com/christiandavidortegaochoa1990)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissa9608&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa9608&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiandavidortegaochoa1990&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiandavidortegaochoa1990&layout=compact)
