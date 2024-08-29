@@ -1,4 +1,6 @@
-![](https://media.licdn.com/dms/image/v2/D4E16AQGIcj8lNn6DJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686761519456?e=1730332800&v=beta&t=iIBrnk31dAViu8v7bs5RClJvk_xz-bkF3DzvuaSCEQ8)
+![portada linkedin2_Mesa de trabajo 1 copia](https://github.com/user-attachments/assets/07bafbf0-30a9-46ea-8db4-2b1a338df5d3)
+
+
 
 ## Hi there! 👋 I’m Christian, a passionate Data Analyst and Mechanical Engineer with expertise in data analysis & data storytelling
 
