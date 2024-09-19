@@ -27,7 +27,7 @@ I'm currently diving deeper into advanced statistical data analytics techniques,
 
 **Email:** c_ortega8a@hotmail.com  
 
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/christiandavidortegaochoa1990/)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/christianortega-dataanalyst/)
 
 **GitHub:** [GitHub Profile](https://github.com/christiandavidortegaochoa1990)
 
